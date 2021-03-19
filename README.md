@@ -1,27 +1,7 @@
 # AngularRoutingBootstrap
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![output1](https://user-images.githubusercontent.com/80521768/111735692-742b3400-88a2-11eb-83f0-866008495411.JPG)
+![Output2](https://user-images.githubusercontent.com/80521768/111735704-79887e80-88a2-11eb-96d3-f86b035db038.JPG)
+![output3](https://user-images.githubusercontent.com/80521768/111735714-7d1c0580-88a2-11eb-9621-b41f00b1458f.JPG)
+![output4](https://user-images.githubusercontent.com/80521768/111735722-81482300-88a2-11eb-8671-018d6313108e.JPG)
+![output5](https://user-images.githubusercontent.com/80521768/111735729-84431380-88a2-11eb-835e-d3a2d7fe0b7d.JPG)
