@@ -1,0 +1,54 @@
+.banner_section{
+	width: 100%;
+	float: left;
+}
+.banner_taital{
+	width: 100%;
+	float: left;
+	font-size: 50pt;
+	color: #fa3e19;
+	line-height: 75px;
+}
+.taital{
+	margin-top: 50px;
+}
+
+.banner-image{
+	width: 100%;
+	float: left;
+}
+
+.lorem_text{
+	width: 100%;
+	float: left;
+	margin-left: 0px;
+}
+
+.bt_main{
+	width: 100%;
+	float: left;
+	background-color: #fa3e19;
+	height: 50px;
+    font-size: 16pt;
+    border: 0px;
+    color: #fff;
+   
+    }
+    .bt_main :hover {color: #000;}
+.banner_bt{ 
+	width: 15%;
+	margin: 0 auto;
+}
+  
+
+.mean-container .mean-bar { background: #ed1c24;}
+
+.banner_section_start{
+	width: 100%;
+	float: left; 
+	background-color: #fefcfb; 
+	height: auto; 
+	padding-top: 20px; 
+	padding-bottom: 20px;
+	border-bottom: 1px solid #000;
+}

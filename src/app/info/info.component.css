@@ -1,0 +1,27 @@
+.product_section_2{
+	width: 100%;
+	float: left;
+    padding-top: 40px;
+}
+
+.den_text{
+	width: 100%;
+	float: left;
+	text-align: center;
+	color: #fa3e19;
+	font-weight: 700;
+
+}
+.den_text a{ color: #fa3e19}
+
+.den_text a:hover{
+	 color: #000; 
+}
+.product_section_2 .images {
+    border: solid #e7e4e3 23px;
+}
+
+.product_section_2 .images:hover {
+    border-color: #fa3e19;
+}
+

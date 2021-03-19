@@ -1,0 +1,39 @@
+.about_section{
+    width: 100%;
+    float: left;
+}
+
+.about_text{
+    width: 100%;
+    float: left;
+    color: #fa3e19;
+    font-size: 50pt;
+    border-bottom: 3px solid #111111;
+   margin-top: 65px;
+}
+
+.color{ color: #383737; }
+
+.about_taital{
+    width: 100%;
+    float: left;
+    color: #686666;
+    font-size: 14pt;
+    margin-left: 0px;
+    padding-top: 20px;
+}
+.read_more{
+   width: 30%;
+   float: left;
+   background-color: #fa3e19;
+   height: 50px;
+   font-size: 16pt;
+   margin-top: 20px;
+   border: 0px;
+   color: #fff;
+
+}
+
+.croissants{ color: #000; }
+
+.croissants a:hover{ color:#000;  }

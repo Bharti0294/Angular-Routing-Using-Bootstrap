@@ -1,0 +1,94 @@
+.contact_section{
+	width: 100%;
+	float: left;
+	background-color: #393838;
+	height: auto;
+	padding-top: 40px;
+	padding-bottom: 45px;
+}
+
+.contact_text{
+	width: 24%;
+	float: left;
+	color: #ffffff;
+	border-bottom: 8px solid #ffffff;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.contact_taital{
+	width: 100%;
+	float: left;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.adderess_text{
+	color: #ffffff;
+	font-size: 26pt;
+	font-weight: 700;
+	padding-top: 10px;
+}
+
+.image-icon{
+	width: 100%; 
+	float: left;
+	padding-top: 10px;	
+
+}
+.email_text {
+    font-size: 17px;
+    color: #ebebeb;
+    padding-left: 16px;
+}
+.images {
+    width: 100%!important;
+    margin-bottom: 20px;
+}
+
+
+.input_main {
+    width: 100%;
+    float: left;
+    background-color: #fa3e19;
+    padding: 40px 20px 13px 20px;
+}
+
+.email-bt {
+    background: #ffffff;
+    border: none;
+    color: #000;
+    width: 100%;
+    height: 55px;
+    font-size: 16px;
+    padding: 20px;
+}
+
+.send_btn {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.massage-bt {
+    color: #000;
+    border: none;
+ 
+    width: 100%;
+    height: 145px;
+    font-size: 16px;
+    padding: 20px;
+}
+
+button.main_bt {
+    background: #302f2f;
+    border: none;
+    color: #fff;
+    width: 150px;
+    height: 50px;
+    font-size: 22px;
+    margin-top: 45px;
+  
+    
+}
+
+button.main_bt a:hover { color: #fa3e19; }
